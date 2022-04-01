@@ -1,2 +1,2 @@
-# Muffin 🧁
+# Cinnamon
 an interpreter written in go
