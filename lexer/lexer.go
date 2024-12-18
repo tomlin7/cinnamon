@@ -1,6 +1,6 @@
 package lexer
 
-import "Muffin/token"
+import "cinnamon/token"
 
 type Lexer struct {
 	input        string

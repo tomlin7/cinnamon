@@ -1,8 +1,8 @@
 package parser
 
 import (
-	"Muffin/ast"
-	"Muffin/lexer"
+	"cinnamon/ast"
+	"cinnamon/lexer"
 	"fmt"
 	"testing"
 )

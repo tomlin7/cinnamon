@@ -1,9 +1,9 @@
 package parser
 
 import (
-	"Muffin/ast"
-	"Muffin/lexer"
-	"Muffin/token"
+	"cinnamon/ast"
+	"cinnamon/lexer"
+	"cinnamon/token"
 	"fmt"
 	"strconv"
 )

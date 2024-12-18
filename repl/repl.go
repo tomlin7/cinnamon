@@ -1,8 +1,8 @@
 package repl
 
 import (
-	"Muffin/lexer"
-	"Muffin/parser"
+	"cinnamon/lexer"
+	"cinnamon/parser"
 	"bufio"
 	"fmt"
 	"io"
