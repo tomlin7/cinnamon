@@ -1,6 +1,8 @@
 # The Cinnamon Programming Language
 
-Cinnamon is a tiny, fast, interpreted language. This repository contains the source code for the Cinnamon interpreter, written in Go. The language is still in development, and the interpreter is not yet feature-complete.
+Cinnamon is a tiny, fast, interpreted language. This repository contains the source code for the Cinnamon interpreter, written in Go. The language is still in development, and the interpreter is not yet feature-complete. A peek at the REPL atm:
+
+![repl](.github/image.png)
 
 ## Syntax
 
